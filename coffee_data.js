@@ -7,6 +7,7 @@
 // c. Objects and properties should have commas seperating them.
 // d. Connect the coffee_data.js file to the index.js file.
 
+
 const coffeeMenu = [
     {
         name: "cappuccino",
@@ -55,4 +56,4 @@ const coffeeMenu = [
     }
 ]
 
-module.exports = coffeeMenu
+module.exports = coffeeMenu;
