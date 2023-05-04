@@ -20,4 +20,3 @@ Connect the coffee_data.js file to the index.js file.
 
 Finished? Submit your coffee_data.js file AND your index.js file for this workshop.
 
-Note: It is important that you submit something before the next class session. Even if you are not done, submit your proof of progress before the next class begins.
